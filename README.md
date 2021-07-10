@@ -7,4 +7,3 @@ Objective
     3. Example: cricBay URL
         3a. Parse cricBay schedule url
         3b. Check schedule for team Raging Bulls
-        3c.
